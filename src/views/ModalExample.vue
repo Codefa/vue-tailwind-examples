@@ -16,7 +16,7 @@
                 Sure, Delete
               </button>
               <button @click="open = false" class="ml-4 px-4 py-2 text-gray-800 font-semibold bg-white hover:bg-gray-100 border rounded focus:outline-none focus:shadow-outline">
-                Cancel
+                go back
               </button>
             </div>
           </div>
