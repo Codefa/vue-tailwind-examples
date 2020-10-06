@@ -8,7 +8,7 @@
         <router-link class="font-semibold text-gray-700 hover:underline" to="/modal">Modal</router-link>
       </div>
       <div class="mt-2">
-        <a href="https://github.com/adamwathan/vue-tailwind-examples" class="text-sm font-semibold text-gray-600 hover:underline">
+        <a href="https://github.com/adamwathan/vue-tailwind-examples" class="text-sm font-semibold text-gray-600 hover:underline hover:text-black hover:font-bold">
           Source on GitHub
         </a>
       </div>
